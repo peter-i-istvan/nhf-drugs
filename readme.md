@@ -14,3 +14,9 @@ Achievements: For the moment the data collection is realized, extracted from a .
 To execute: [data generation](data_generation.ipynb) for dividing the graph, [feature extraction](creating_features.ipynb) for feature extraction
 
 Github Gist: https://gist.github.com/peter-i-istvan/581eb0e0251a40b62ef3df76c3193b35
+
+Folder structure:
+|folder|use|
+|--|--|
+|data|Train. validation and test split|
+|db|The database downloaded from the Google Drive link|
