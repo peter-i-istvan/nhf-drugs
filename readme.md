@@ -23,15 +23,15 @@ Folder structure:
 
 To run the training we need to:
 
-need to install dependencies
+- need to install dependencies
 
-set the hyperparameters
+- set the hyperparameters
 
-define the model
+- define the model
 
-data preprocessing
+- data preprocessing
 
-loading the data
+- loading the data
 
 creating the model and the optimizer
 The db and data folders were created previously, so only two files needs to be in them, namely the "feature.csv" in the data folder, while the "ChCh-Miner_durgbank-chem-chem.tsv.gz" in the db folder.
