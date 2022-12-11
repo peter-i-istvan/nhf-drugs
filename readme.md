@@ -6,7 +6,8 @@ Péter István - TCTYJW
 
 Rancz Máté - U7EHQC
 
-Goal: The goal of this project is to realize training a neural network to spot drugüdrug interactions, based on Variational Graph AutoEncoders. 
+Goal: The goal of this project is to realize training a neural network to spot drug-drug interactions, based on Variational Graph AutoEncoders. 
+Run `training_example.ipynb` to train the model.
 
 Achievements: For the moment the data collection is realized, extracted from a .xml file from our source. 
 (https://drive.google.com/drive/folders/1hZa_Vc9dZf_oyNjQoCsO2eKVAOzz-78e)
