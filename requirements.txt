@@ -1,0 +1,12 @@
+dgl
+gdown
+jupyter
+lxml
+matplotlib
+networkx
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+torch
