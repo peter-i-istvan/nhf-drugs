@@ -24,3 +24,5 @@ To run the training one needs to install the [dependencies](requirements.txt).
 The db and data folders were created previously, so only two files needs to be in them, namely the "feature.csv" in the data folder, and the "ChCh-Miner_durgbank-chem-chem.tsv.gz" in the db folder.
 
 The evaluation metrics are printed during training, at the end of each epoch, as well as after the training process, so there is no need for a separate notebook for evaluation. At the end of the training, the AUC_ROC and AP metrics are displayed.
+
+The final report in PDF format can be found in the root of the repository.
